@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiEntrega6.props" />
+</Project>
